@@ -1,3 +1,5 @@
+Issue: https://github.com/JetBrains/compose-multiplatform/issues/3132
+
 ```Kotlin
 Column(
         Modifier
